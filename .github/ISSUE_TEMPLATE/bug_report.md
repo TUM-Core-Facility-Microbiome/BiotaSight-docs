@@ -15,8 +15,8 @@ If applicable, add screenshots to help explain your problem.
 
 **Pipeline Log Files**
 Please try to find those files and upload them here.
-1) In the selected analysis directory there should be a file named `Pipeline_log.txt`
-2) In the selected analysis directory there should be a file named `IMNGS2Pipeline_args.yml`
+1) In the selected base directory, there should be a file named `Pipeline_log.txt`
+2) In the selected base directory, there should be a file named `IMNGS2Pipeline_args.yml`
 
 **System**
  - Are you using Windows or Linux?
